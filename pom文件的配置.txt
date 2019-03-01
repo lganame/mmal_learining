@@ -1,0 +1,7 @@
+properties：属性文件
+自定义的
+compilerArguments
+extdirs ${project.basedir}
+把本地的jar在编译时引入
+教程里用到的
+引进项目jar包冲突的问题
